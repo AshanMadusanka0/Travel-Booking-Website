@@ -8,7 +8,7 @@ This project focuses on clean design, smooth animations, and accessibility acros
 
 🎨 Features
 
-✅ Responsive design for desktops, tablets, and mobiles
+✅ Responsive design for desktops, tablets, and mobiles<br>
 ✅ Explore top destinations with engaging image cards
 ✅ Trip packages with pricing and star ratings
 ✅ Interactive "Book Now" buttons with hover animations
