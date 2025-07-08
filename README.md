@@ -9,10 +9,10 @@ This project focuses on clean design, smooth animations, and accessibility acros
 🎨 Features
 
 ✅ Responsive design for desktops, tablets, and mobiles<br>
-✅ Explore top destinations with engaging image cards
-✅ Trip packages with pricing and star ratings
-✅ Interactive "Book Now" buttons with hover animations
-✅ Smooth scroll-based reveal animations using Intersection Observer
-✅ Clean and modern UI following best design practices
-✅ Subscription form to collect user emails
-✅ Integrated with Remix Icons for attractive icons
+✅ Explore top destinations with engaging image cards<br>
+✅ Trip packages with pricing and star ratings<br>
+✅ Interactive "Book Now" buttons with hover animations<br>
+✅ Smooth scroll-based reveal animations using Intersection Observer<br>
+✅ Clean and modern UI following best design practices<br>
+✅ Subscription form to collect user emails<br>
+✅ Integrated with Remix Icons for attractive icons<br>
